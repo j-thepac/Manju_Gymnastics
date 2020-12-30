@@ -16,7 +16,7 @@ This website is hosted in Netlify
 ### How To
 -   Login to https://www.netlify.com/
 -   click on Site Tab
--   Drag and Drop the Folder
+-   Drag and Drop the Project Folder
 
 ## Usage
 
@@ -30,6 +30,7 @@ After installation, run `npm install` and then run `npm start` which will open u
 
 ## Credit
 * <https://startbootstrap.com>
+* <https://www.youtube.com/watch?v=9RfU6KGNkfE&t=649s>
 
 
 

@@ -4,7 +4,7 @@
 
 ## Preview
 
-[![One Page Wonder Preview](https://assets.startbootstrap.com/img/screenshots/themes/one-page-wonder.png)](https://startbootstrap.github.io/startbootstrap-one-page-wonder/)
+[![One Page Wonder Preview](https://assets.startbootstrap.com/img/screenshots/themes/one-page-wonder.png)](https://gymnasticsclub.netlify.app/)
 
 **[View Live Preview](https://gymnasticsclub.netlify.app/)**
 
@@ -16,14 +16,13 @@
 [![dependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-one-page-wonder/status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-one-page-wonder)
 [![devDependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-one-page-wonder/dev-status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-one-page-wonder?type=dev)
 
-## Download and Installation
+## Hosting
+This website is hosted in Netlify
 
-To begin using this template, choose one of the following options to get started:
-
-* [Download the latest release on Start Bootstrap](https://startbootstrap.com/theme/one-page-wonder/)
-* Install via npm: `npm i startbootstrap-one-page-wonder`
-* Clone the repo: `git clone https://github.com/StartBootstrap/startbootstrap-one-page-wonder.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/StartBootstrap/startbootstrap-one-page-wonder)
+### How To
+-   Login to https://www.netlify.com/
+-   click on Site Tab
+-   Drag and Drop the Folder
 
 ## Usage
 
@@ -35,35 +34,8 @@ After downloading, simply edit the HTML and CSS files included with the template
 
 After installation, run `npm install` and then run `npm start` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `gulpfile.js` to see which tasks are included with the dev environment.
 
-#### Gulp Tasks
-
-* `gulp` the default task that builds everything
-* `gulp watch` browserSync opens the project in your default browser and live reloads when changes are made
-* `gulp css` compiles SCSS files into CSS and minifies the compiled CSS
-* `gulp js` minifies the themes JS file
-* `gulp vendor` copies dependencies from node_modules to the vendor directory
-
-You must have npm installed globally in order to use this build environment.
-
-## Bugs and Issues
-
-Have a bug or an issue with this template? [Open a new issue](https://github.com/StartBootstrap/startbootstrap-one-page-wonder/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](https://startbootstrap.com/theme/one-page-wonder/).
-
-## About
-
-Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
-
+## Credit
 * <https://startbootstrap.com>
-* <https://twitter.com/SBootstrap>
 
-Start Bootstrap was created by and is maintained by **[David Miller](https://davidmiller.io/)**.
 
-* <https://davidmiller.io>
-* <https://twitter.com/davidmillerhere>
-* <https://github.com/davidtmiller>
 
-Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2020 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-one-page-wonder/blob/gh-pages/LICENSE) license.

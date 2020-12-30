@@ -2,14 +2,6 @@
 
 **[View Live Preview](https://gymnasticsclub.netlify.app/)**
 
-## Status
-
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/StartBootstrap/startbootstrap-one-page-wonder/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-one-page-wonder.svg)](https://www.npmjs.com/package/startbootstrap-one-page-wonder)
-[![Build Status](https://travis-ci.org/StartBootstrap/startbootstrap-one-page-wonder.svg?branch=master)](https://travis-ci.org/StartBootstrap/startbootstrap-one-page-wonder)
-[![dependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-one-page-wonder/status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-one-page-wonder)
-[![devDependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-one-page-wonder/dev-status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-one-page-wonder?type=dev)
-
 ## Hosting
 This website is hosted in Netlify
 
